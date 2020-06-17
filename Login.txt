@@ -20,4 +20,4 @@ print(pwd_ele.is_enabled())             			# returns true/false
 
 user_ele.send_keys("mercury")
 pwd_ele.send_keys('mercury')
-driver.find_element_by_name("login").click()
+driver.find_element_by_name("login").click
